@@ -46,7 +46,7 @@ let periods = [
 let date = [
   "June 21",
   "July 7",
-  "July 22",
+  "July 23",
 
   "August 7",
   "August 23",
@@ -58,20 +58,20 @@ let date = [
   "November 7",
   "November 22",
   "December 7",
-  "December 21",
+  "December 22",
   "January 5",
   "January 20",
 
-  "February 3",
-  "February 18",
+  "February 4",
+  "February 19",
   "Match 5",
   "Match 20",
-  "April 4",
+  "April 5",
   "April 20",
 
   "May 5",
   "May 21",
-  "June 5",
+  "June 6",
 ];
 
 let poem = {
